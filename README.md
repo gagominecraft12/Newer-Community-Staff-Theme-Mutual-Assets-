@@ -1,4 +1,4 @@
-# Newer-Community-Staff-Theme-Mutual-Assets-
+#  A Tutorial.
 A Tutorial To Use Community Staff (Mutual Assets Theme)
 1. Extract Using 7-Zip Or WinRAR
 2. Then, Put This Them Go To wrapper-offline\server\store\3a981f5cb2739137\
